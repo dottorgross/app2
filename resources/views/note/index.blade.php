@@ -1,7 +1,7 @@
 
 <div class="container mx-auto p-6">
     <div class="flex justify-between items-center mb-6">
-        <h1 class="text-3xl font-bold text-gray-800">Le mie Note 2</h1>
+        <h1 class="text-3xl font-bold text-gray-800">Le mie Note 3</h1>
     </div>
 
     @if(session('success'))
